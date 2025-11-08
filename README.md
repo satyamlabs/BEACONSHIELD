@@ -29,17 +29,6 @@ No admin/root privileges required unless accessing protected directories.
 
 ---
 
-## 🧪 Quick Start Guide
-
-### Step 1: Clone/Download Repo
-
-Either download `.zip` from GitHub or clone via terminal:
-
-```bash
-git clone https://github.com/yourusername/beaconshield.git
-cd beaconshield
-```
-
 ### Step 2: Install Dependencies
 
 Make sure Python 3.x is installed, then install required packages:
