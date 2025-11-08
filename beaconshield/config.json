@@ -1,0 +1,17 @@
+{
+    "malicious_keywords": [
+        "password",
+        "credit card",
+        "login",
+        "banking",
+        "__import__",
+        "eval",
+        "os.system",
+        "subprocess"
+    ],
+    "phishing_domains": [
+        "bit.ly",
+        "tinyurl.com",
+        "short.url"
+    ]
+}
